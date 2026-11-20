@@ -1,0 +1,31 @@
+{
+  "titulo": "Favoritos Renner",
+  "subtitulo": "Minhas escolhas do provador",
+  "instagram": "nicoledagostim",
+  "looks": [
+    {
+      "nome": "Blusa Peplum Assimétrica com Decote Transpassado",
+      "cor": "Preto",
+      "categoria": "Blusa",
+      "promocao": true,
+      "foto": "https://img.lojasrenner.com.br/item/931592948/original/3.jpg",
+      "link": "https://www.awin1.com/cread.php?awinmid=70694&awinaffid=2599889&campaign=Friday&clickref=https%3A%2F%2Fwww.lojasrenner.com.br%2Fp%2Fblusa-peplum-assimetrica-com-decote-transpassado%2F-%2FA-931592809-br.lr%3Fsku%3D931592841&ued=https%3A%2F%2Fwww.lojasrenner.com.br%2Fp%2Fblusa-peplum-assimetrica-com-decote-transpassado%2F-%2FA-931592809-br.lr%3Fsku%3D931592841"
+    },
+    {
+      "nome": "Blusa Ampla com Gola Alta e Mangas Curtas",
+      "cor": "Preto",
+      "categoria": "Blusa",
+      "promocao": false,
+      "foto": "https://img.lojasrenner.com.br/item/931591419/original/13.jpg",
+      "link": "https://tidd.ly/4CgbMwo"
+    },
+    {
+      "nome": "Blusa com Recorte Transpassado e Ombreiras",
+      "cor": "Branca",
+      "categoria": "Blusa",
+      "promocao": false,
+      "foto": "https://img.lojasrenner.com.br/item/931592972/original/3.jpg",
+      "link": "https://www.awin1.com/cread.php?awinmid=70694&awinaffid=2599889&campaign=Friday&clickref=story-blusa-recorte-ombreiras&ued=https%3A%2F%2Fwww.lojasrenner.com.br%2Fp%2Fblusa-com-recorte-transpassado-e-ombreiras%2F-%2FA-931592833-br.lr%3Fsku%3D931592884"
+    }
+  ]
+}
